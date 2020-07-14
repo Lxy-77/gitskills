@@ -1,1 +1,1 @@
-Createing a branch dev
+Createing a branch dev is very quick AND simple
