@@ -1,1 +1,1 @@
-# gitskills
+clone skills
